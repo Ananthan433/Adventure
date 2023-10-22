@@ -1,2 +1,2 @@
-# Web-samples
-I am just putting some sample web pages using simple html and css.
+# Adventure
+It's just a static website which reperesents and adventure tourism company
